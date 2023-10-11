@@ -1,0 +1,16 @@
+[
+  {
+    "id": 0,
+    "hitboxX": 0,
+    "hitboxY": 50,
+    "hitboxW": 100,
+    "hitboxH": 20
+  },
+  {
+    "id": 1,
+    "hitboxX": 80,
+    "hitboxY": 0,
+    "hitboxW": 20,
+    "hitboxH": 100
+  }
+]
